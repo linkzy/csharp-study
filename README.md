@@ -6,7 +6,7 @@ Welcome to the C# Study repository! This repository is dedicated to my C# learni
 1. **Basics of C#:**
    - Variables. ([Blog Post](https://linkzy.dev/understanding-variables-and-data-types-in-c/))
    - Data types. ([Blog Post](https://linkzy.dev/exploring-c-data-types/))
-   - Operators.
+   - Operators. ([Blog Post](https://linkzy.dev/blog-post-navigating-operators-in-c/))
    - Control structures (if statements, loops).
    - Functions and methods.
 
