@@ -7,7 +7,7 @@ Welcome to the C# Study repository! This repository is dedicated to my C# learni
    - Variables. ([Blog Post](https://linkzy.dev/understanding-variables-and-data-types-in-c/))
    - Data types. ([Blog Post](https://linkzy.dev/exploring-c-data-types/))
    - Operators. ([Blog Post](https://linkzy.dev/blog-post-navigating-operators-in-c/))
-   - Control structures (if statements, loops).
+   - Control structures (if statements, loops). ([Blog Post](https://linkzy.dev/control-structures-in-c/))
    - Functions and methods.
 
 2. **Object-Oriented Programming (OOP):**
